@@ -1,0 +1,72 @@
+MIT License with Geographic Use Restriction Addendum (MIT + GURAv1)
+
+Copyright (c)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, subject to the limitations and conditions
+described below, including without limitation the rights to use, copy, modify,
+merge, publish, distribute, sublicense, and/or sell copies of the Software,
+and to permit persons to whom the Software is furnished to do so.
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+====================================================================
+GEOGRAPHIC USE RESTRICTION ADDENDUM v1.0 (GURAv1)
+====================================================================
+
+Notwithstanding any provision of the MIT License above, the permissions granted
+under this license are explicitly revoked for any individual, organization,
+or entity that:
+
+1. Resides in, is incorporated in, or operates within:
+
+   - Brazil
+   - The State of California, USA
+   - The State of Texas, USA
+   - The State of Utah, USA
+   - The State of Louisiana, USA
+   - The State of Colorado, USA
+   - The State of Illinois, USA
+   - The State of New York, USA
+
+2. Holds citizenship, residency, or any form of residential permit in any of
+   the jurisdictions listed above.
+
+Entities described above are strictly prohibited from:
+
+- Using the Software or associated content
+- Copying or distributing the Software
+- Modifying or creating derivative works
+- Incorporating the Software into other software or systems
+- Selling, sublicensing, or commercially exploiting the Software
+- Accessing or interacting with the Software in any form
+
+For the restricted jurisdictions listed above, no rights are granted,
+whether express or implied, under this license.
+
+Any use in violation of this Addendum shall constitute:
+
+- A material breach of this license
+- Unauthorized use
+- Potential infringement under applicable law
+
+If any part of this Addendum is found unenforceable, the remaining provisions
+shall remain in full force and effect.
+
+By using, copying, modifying, distributing, or interacting with this Software,
+you agree to the terms of both the MIT License and this Geographic Use
+Restriction Addendum.
+
+====================================================================
+DISCLAIMER
+====================================================================
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
